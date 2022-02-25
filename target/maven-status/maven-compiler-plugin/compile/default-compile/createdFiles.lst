@@ -1,0 +1,9 @@
+rapido\model\Member_.class
+rapido\rest\JaxRsActivator.class
+rapido\service\MemberRegistration.class
+rapido\data\MemberRepository.class
+rapido\controller\MemberController.class
+rapido\model\Member.class
+rapido\data\MemberListProducer.class
+rapido\rest\MemberResourceRESTService.class
+rapido\util\Resources.class
